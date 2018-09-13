@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 AlertDialog.Builder dlg = new AlertDialog.Builder(this);
                 dlg.setMessage(txt);
+                dlg.setPositiveButton("OK", null);
                 dlg.show();
                 break;
             case R.id.btnDesmarcar:
