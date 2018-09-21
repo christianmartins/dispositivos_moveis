@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aula05</string>
+    <string name="txt_questao">Quem descobriu o brasil</string>
+    <string name="rdb_a">Américo Vespúcio</string>
+    <string name="rdb_b">Cristovão Colombo</string>
+    <string name="rdb_c">Dom Pedro II</string>
+    <string name="rdb_d">Marco Polo</string>
+    <string name="rdb_e">Pedro Alvares Cabral</string>
+    <string name="btn_ok">OK</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+
+
+    <!-- Spinner -->
+    <string name="txt_cadastro">Cadastro de Pessoas</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_cidade">Cidade</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+
+
+    <string-array name="lista_nome">
+        <item> Alexandre Tanner </item>
+        <item> Marden Kirkland </item>
+        <item> Brenden Swanson </item>
+        <item> Caleb Odom </item>
+        <item> Plato Baldwin </item>
+        <item> Cadman Becker </item>
+    </string-array>
+    <!-- End -->
+</resources>
